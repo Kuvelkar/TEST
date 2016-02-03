@@ -1,0 +1,12 @@
+Package: Goodies
+Type: Package
+Title: IAZI defined functions for model Building
+Version: 1.2
+Date: 2013-11-08
+Author: IAZI
+Maintainer: TVK <karthik@iazi.ch>, RPO <Poduval@iazi.ch>, PVN <Nair@iazi.ch>
+Description: Package for IAZI functions like bowplot,lm,boxplot etc. Added the functions IAZISummary, IAZIINstallPkg, IAZIMAP in this version.
+Depends:R (>= 3.0.2)
+Functions:bowplot, box2class, box3class, boxclass, boxplotSQL, bxpMake, CrashWarning, DBExport, estExport, FixHiLoScale, HiFixLoScale, HiLoScale, hist.factor, hist.factorP, modExport, objects.summary, PHS.bxp, PHS.CheckFactorsAfterCut, PHS.DistributionLog, PHS.DistributionPosX, PHS.DistributionX, PHS.getcex, PHS.lmcook, PHS.lmhat, PHS.lmres, PHS.makeFactorMatrix, PHS.match, PHS.Mod5Pass, PHS.panel.cor, PHS.panel.hist, PHS.rlmw, PHS.ValidPass, REPMDate, resboxchar, resboxcont, resboxcontfix, resboxdummy, sigExport, SQLCompatibility, SQLExport, IAZIColor, FName , IAZISummary, IAZIINstallPkg, IAZIMAP, IAZICol,ModPass,IIT.ModPass, breakpoint, colorsel and map.Swiss
+License: IAZI
+Manual: H:\1_Allgemein\0_R\LIB_R\Goodies-manual.pdf
